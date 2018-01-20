@@ -12,6 +12,6 @@
   </head>
   <body>
  <h1>Sample Rep App</h1>
-  <p>Repository Sample Version 1</p>
+  <p>Repository Sample Version 2</p>
   </body>
 </html>
